@@ -1,0 +1,5 @@
+fp=open('myfile3.txt','w')
+fp.write('Hello this is my first writing\n')
+fp.write('Second line\n')
+fp.write('Third line\n')
+fp.close()
